@@ -35,3 +35,4 @@ Adiciona ouvintes de eventos para o controle deslizante de volume e a caixa de s
 Quando o usuário interage com o controle deslizante, a função handleVolume é chamada para ajustar o volume.
 Quando a caixa de seleção é clicada, a função showHideKeys é chamada para mostrar ou ocultar as teclas do piano.
 Em resumo, o código cria uma experiência interativa onde o usuário pode tocar um piano virtual, ajustar o volume e mostrar/ocultar as teclas visuais do piano.
+ [Clique aqui]().
